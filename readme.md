@@ -26,12 +26,16 @@ Full authentication and authorization with JWT
 
 Although the theme is food delivery, all required e-commerce cart operations (add, remove, checkout, totals) are implemented — and enhanced with admin functionality and database persistence.
 
-🧱 Folder Structure
-📦 root
- ┣ 📂 frontend        → React user app (port 5173)
- ┣ 📂 admin           → React admin panel (port 5174)
- ┣ 📂 backend         → Node.js + Express + MongoDB server (port 4000)
- ┗ 📄 README.md
+root
+
+├── frontend     → React user app (port 5173)
+
+├── admin        → React admin panel (port 5174)
+
+├── backend      → Node.js + Express + MongoDB server (port 4000)
+
+└── README.md
+
 
 ⚙️ Tech Stack
 
